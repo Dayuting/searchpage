@@ -1,2 +1,577 @@
 # searchpage
-this is a html
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    titleTitletitle
+    style
+        .first-up{
+            height50px;
+            width95%;
+            margin0 auto;
+        }
+        .second{
+            height1200px;
+            width70%;
+            margin0 auto;
+        }
+        .second-up{
+            height 150px;
+            width 95%;
+            margin 0 auto;
+        }
+        .second-up-main{
+            background-color coral;
+            height 150px;
+            width40%;
+            margin 0 auto;
+        }
+        .second-upmid{
+            height450px;
+            width95%;
+            margin 0 auto;
+        }
+        .second-upmid-top{
+             height35px;
+             width95%;
+             margin 0 auto;
+         }
+        .second-upmid-main{
+            height380px;
+            width100%;
+            margin 0 auto;
+            border 1px solid black;
+        }
+        .table-1{
+            height45px;
+            width100%;
+            border-bottom1px solid black;
+        }
+        .table-1-0{
+            height44px;
+            width98%;
+            margin 0 auto;
+        }
+        .table-1-1{
+            height44px;
+            width15%;
+            border-top 9px solid white;
+            border-bottom 10px solid white;
+            border-left 10px solid white;
+            font-size 20px;
+            float left;
+        }
+        .table-1-2{
+            height 44px;
+            width85%;
+            floatright;
+            border-top 10px solid white;
+            border-bottom 10px solid white;
+            font-size 16px;
+        }
+        .table-2{
+            height45px;
+            width100%;
+            border-bottom1px solid black;
+        }
+        .table-2-0{
+            height44.2px;
+            width98%;
+            margin 0 auto;
+        }
+        .table-2-1{
+            height44.2px;
+            width15%;
+            border-top 9px solid white;
+            border-bottom 10px solid white;
+            border-left 10px solid white;
+            font-size 20px;
+            float left;
+        }
+        .table-2-2{
+            height 44.2px;
+            width85%;
+            floatright;
+            border-top 10px solid white;
+            border-bottom 10px solid white;
+            font-size 16px;
+        }
+        .table-3{
+            height45px;
+            width100%;
+            border-bottom1px solid black;
+        }
+        .table-3-0{
+            height44px;
+            width98%;
+            margin 0 auto;
+        }
+        .table-3-1{
+            height44px;
+            width15%;
+            border-top 9px solid white;
+            border-bottom 10px solid white;
+            border-left 10px solid white;
+            font-size 20px;
+            float left;
+        }
+        .table-3-2{
+            height 44px;
+            width85%;
+            floatright;
+            border-top 10px solid white;
+            border-bottom 10px solid white;
+            font-size 16px;
+        }
+        .table-4{
+            height45px;
+            width100%;
+            border-bottom1px solid black;
+        }
+        .table-4-0{
+            height44px;
+            width98%;
+            margin 0 auto;
+        }
+        .table-4-1{
+            height44px;
+            width15%;
+            border-top 9px solid white;
+            border-bottom 10px solid white;
+            border-left 10px solid white;
+            font-size 20px;
+            float left;
+        }
+        .table-4-2{
+            height 44px;
+            width85%;
+            floatright;
+            font-size 16px;
+        }
+        .table-4-3{
+            width4.5%;
+            border-top 10px solid white;
+            font-size 16px;
+            float left;
+        }
+        .table-4-4{
+            height 44PX;
+            width95.5%;
+            font-size 16px;
+            float right;
+        }
+        .table-4-5{
+            height 44PX;
+            width25%;
+            float left;
+        }
+        .table-4-6{
+            width75%;
+            border-top 10px solid white;
+            border-bottom 12px solid white;
+            border-left 10px solid white;
+            font-size 16px;
+            float right;
+        }
+        .table-5{
+            height45px;
+            width100%;
+            border-bottom1px solid black;
+        }
+        .table-5-0{
+            height44px;
+            width98%;
+            margin 0 auto;
+        }
+        .table-5-1{
+            height44px;
+            width15%;
+            border-top 9px solid white;
+            border-bottom 10px solid white;
+            border-left 10px solid white;
+            font-size 20px;
+            float left;
+        }
+        .table-5-2{
+            height 44px;
+            width85%;
+            floatright;
+            border-top 10px solid white;
+            border-bottom 10px solid white;
+            font-size 16px;
+        }
+        .table-6{
+            height45px;
+            width100%;
+            border-bottom1px solid black;
+        }
+        .table-6-0{
+            height44.2px;
+            width98%;
+            margin 0 auto;
+        }
+        .table-6-1{
+            height44.2px;
+            width15%;
+            border-top 9px solid white;
+            border-bottom 10px solid white;
+            border-left 10px solid white;
+            font-size 20px;
+            float left;
+        }
+        .table-6-2{
+            height 44.2px;
+            width85%;
+            floatright;
+            border-top 10px solid white;
+            border-bottom 10px solid white;
+            font-size 16px;
+        }
+        .table-7{
+            height65px;
+            width100%;
+            border-bottom1px solid black;
+        }
+        .table-7-0{
+            height64px;
+            width98%;
+            margin 0 auto;
+        }
+        .table-7-1{
+            height64px;
+            width15%;
+            border-top 19px solid white;
+            border-bottom 10px solid white;
+            border-left 10px solid white;
+            font-size 20px;
+            float left;
+        }
+        .table-7-2{
+            height 64px;
+            width85%;
+            floatright;
+            font-size 16px;
+        }
+        .table-7-3{
+            width4.5%;
+            border-top 20px solid white;
+            font-size 16px;
+            float left;
+        }
+        .table-7-4{
+            height64px;
+            width95.5%;
+            font-size 16px;
+            float left;
+        }
+        .table-7-5{
+            height32px;
+            width100%;
+            border-top6px solid white;
+            border-left 10px solid white;
+            font-size 16px;
+        }
+        .table-7-6{
+            height32px;
+            width100%;
+            border-top6px solid white;
+            border-left 10px solid white;
+            font-size 16px;
+        }
+        .table-8{
+            height45px;
+            width100%;
+            border-bottom1px solid black;
+        }
+        .table-8-0{
+            height44px;
+            width98%;
+            margin 0 auto;
+        }
+        .table-8-1{
+            height44px;
+            width15%;
+            border-top 9px solid white;
+            border-bottom 10px solid white;
+            border-left 10px solid white;
+            font-size 20px;
+            float left;
+        }
+        .table-8-2{
+            height 44px;
+            width85%;
+            floatright;
+            border-top 10px solid white;
+            border-bottom 10px solid white;
+            font-size 16px;
+        }
+
+        .second-midder{
+            height350px;
+            width95%;
+            margin 0 auto;
+        }
+        .second-midder-main{
+            height350px;
+            width100%;
+            margin 0 auto;
+        }
+        .second-midder-main-left{
+            height350px;
+            width49.5%;
+            float left;
+        }
+        .second-midder-main-right{
+            height350px;
+            width49.5%;
+            floatright;
+        }
+        .left-left{
+            background-color darkcyan;
+            height350px;
+            width49%;
+            floatleft;
+        }
+        .left-right{
+            background-color thistle;
+            height350px;
+            width49%;
+            floatright;
+        }
+        .right-up{
+            height170px;
+            width100%;
+            margin 0 auto;
+        }
+        .up-left{
+            background-color yellowgreen;
+            height170px;
+            width49%;
+            floatleft;
+        }
+        .up-right{
+            background-color blue;
+            height170px;
+            width49%;
+            floatright;
+        }
+        .right-middle{
+            height10px;
+            width100%;
+            margin 0 auto;
+        }
+        .right-down{
+            height170px;
+            width100%;
+            margin 0 auto;
+            bottom 0;
+        }
+        .down-left{
+            background-color yellowgreen;
+            height170px;
+            width49%;
+            floatleft;
+        }
+        .down-right{
+            background-color blue;
+            height170px;
+            width49%;
+            floatright;
+        }
+        .second-downmid{
+            height60px;
+            width95%;
+            margin 0 auto;
+        }
+        .second-downmid-up{
+            height40px;
+            width70%;
+            margin 0 auto;
+        }
+        .second-downmid-down{
+            background-colorblack;
+            height1px;
+            width70%;
+            margin 0 auto;
+        }
+        .second-down{
+            height80px;
+            width95%;
+            margin 0 auto;
+        }
+        .second-down-main{
+            height80px;
+            width52.2%;
+            margin 0 auto;
+        }
+
+
+
+
+    style
+    link rel=stylesheet href=httpscdn.staticfile.orgtwitter-bootstrap3.3.7cssbootstrap.min.css
+    script src=httpscdn.staticfile.orgjquery2.1.1jquery.min.jsscript
+    script src=httpscdn.staticfile.orgtwitter-bootstrap3.3.7jsbootstrap.min.jsscript
+
+head
+body
+div class=first
+
+    div class=second
+        div class=first-updiv
+
+        div class=second-up 
+            div class=second-up-main图div
+        div
+
+        div class=second-upmid
+            div class=second-upmid-topdiv
+            div class=second-upmid-main
+
+                div class=table-1
+                    div class=table-1-0
+                        div class=table-1-1当前筛选div
+                        div class=table-1-2
+                            奥迪 清除所有条件
+                        div
+                    div
+                div
+
+                div class=table-2
+                    div class=table-2-0
+                        div class=table-2-1价格div
+                        div class=table-2-25万 10万 20万 30万 40万 50万 60万 70万 80万 90万 100万 自定义div
+                    div
+                div
+
+                div class=table-3
+                    div class=table-3-0
+                        div class=table-3-1类型div
+                        div class=table-3-2不限 欧版 加拿大版 墨西哥版 中东版 美版div
+                    div
+                div
+
+                div class=table-4
+                    div class=table-4-0
+                        div class=table-4-1品牌div
+                        div class=table-4-2
+                            div class=table-4-3不限div
+                            div class=table-4-4
+                                div class=table-4-5
+                                    el-input
+                                            placeholder=请输入内容
+                                            prefix-icon=el-icon-search
+                                            v-model=input2
+                                    el-input
+                                div
+                                div class=table-4-6
+                                    A B C D E F G H I J K L M I N O P Q R S T U V W X Y Z
+                                div
+                            div
+
+                        div
+                    div
+                div
+
+                div class=table-5
+                    div class=table-5-0
+                        div class=table-5-1年份div
+                        div class=table-5-22020 2019 2018 1017 1016div
+                    div
+                div
+
+                div class=table-6
+                    div class=table-6-0
+                        div class=table-6-1新能源div
+                        div class=table-6-2不限 汽油 柴油 混动div
+                    div
+                div
+
+                div class=table-7
+                    div class=table-7-0
+                        div class=table-7-1排量div
+                        div class=table-7-2
+                            div class=table-7-3不限div
+                            div class=table-7-4
+                                div class=table-7-5
+                                    1.4L    1.5L    1.6L    2.0T    2.7T    2.9T    3.0T
+                                div
+                                div class=table-7-6
+                                    3.0L    3.5L    4.0L    4.0T
+                                div
+                            div
+                        div
+                    div
+                div
+
+                div class=table-8
+                    div class=table-8-0
+                        div class=table-8-1现车div
+                        div class=table-8-2不限 现车 期贷div
+                    div
+                div
+
+
+            div
+            div class=second-upmid-downdiv
+        div
+
+        div class=second-midder
+            div class=second-midder-main
+                div class=second-midder-main-left
+                    div class=left-left1div
+                    div class=left-right2div
+                div
+                div class=second-midder-main-right
+                    div class=right-up
+                        div class=up-left3div
+                        div class=up-right4div
+                    div
+                    div class=right-middlediv
+                    div class=right-down
+                        div class=down-left5div
+                        div class=down-right6div
+                    div
+                div
+            div
+        div
+
+        div class=second-downmid
+            div class=second-downmid-updiv
+            div class=second-downmid-downdiv
+        div
+
+        div class=second-down
+            div class=second-down-main
+                ul class=pagination pagination-lg
+                    lia href=#&laquo;ali
+                    lia href=#2ali
+                    lia href=#2ali
+                    lia href=#3ali
+                    lia href=#4ali
+                    lia href=#5ali
+                    lia href=#6ali
+                    lia href=#7ali
+                    lia href=#8ali
+                    lia href=#9ali
+                    lia href=#10ali
+                    lia href=#&raquo;ali
+                ulbr
+            div
+        div
+
+    div
+div
+script
+    var Main = {
+        data() {
+            return {
+                input2 ''
+            }
+        }
+    }
+    var Ctor = Vue.extend(Main)
+    new Ctor().$mount('#app')
+script
+body
+html
